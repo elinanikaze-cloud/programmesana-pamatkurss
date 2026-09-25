@@ -1,8 +1,10 @@
-# Pirmais kontroldarbs
-**Elīna Nikāze**
+# PD1 darba vide
+**Autors : Elīna Nikāze**
+
 ## Palaišana
-Lai palaistu programmu, atver failu `sveiciens.py` mapē `kods` un izpildi to ar Python (terminālī ieraksti `python sveiciens.py`). Ekrānā parādīsies vārds un kursa nosaukums.
+python sveiciens.py
+
 ## Ergonomika
-— Sēdēt ar taisnu muguru.  
-— Ekrānam jāatrodas acu līmenī.  
-— Regulāri ieturēt pauzes.  
+- Monitors acu līmenī.  
+- Regulāri atpūtinu acis.  
+- Sēžu ar taisnu muguru.  
