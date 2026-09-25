@@ -2,6 +2,6 @@
 **Elīna Nikāze**
 ## Palaišana
 ## Ergonomika
-- Sēdēt ar taisnu muguru.
-- Ekrānam jāatrodas acu līmenī.
-- Regulāri ieturēt pauzes.
+— Sēdēt ar taisnu muguru.  
+— Ekrānam jāatrodas acu līmenī.  
+— Regulāri ieturēt pauzes.  
